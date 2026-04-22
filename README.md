@@ -14,6 +14,9 @@ This repository contains supporting data associated with the paper’s MD simula
 
   Contains the initial and final structures from peptides: membrane complex simulations, along with the corresponding parameters and topologies files.
 
-- **`SMD_Parameters/`**
+- **`SMD-US_Parameters/`**
 
   Contains parameters for steered molecular dynamics and umbrella sampling simulations.
+
+## Nomenclature of Peptides
+p32w refers to P32, and p32ww refers to P32* in the manuscript.
