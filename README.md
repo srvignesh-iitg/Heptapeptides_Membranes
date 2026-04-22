@@ -6,11 +6,14 @@ This repository contains supporting data associated with the paper’s MD simula
 
 ## Repository Structure
 
-- **Free_Peptide**
+- **`Free_Peptide/`**
+
   Contains the initial and final structures from free peptides simulations, along with the corresponding parameters and topologies files.
 
-- **Peptide_Membranes**
+- **`Peptide_Membranes/`**
+
   Contains the initial and final structures from peptides: membrane complex simulations, along with the corresponding parameters and topologies files.
 
-- **SMD_Parameters**
+- **`SMD_Parameters/`**
+
   Contains parameters for steered molecular dynamics and umbrella sampling simulations.
