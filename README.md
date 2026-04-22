@@ -6,7 +6,7 @@ This repository contains supporting data associated with the paper’s MD simula
 
 ## Repository Structure
 
-- **`Free_Peptide/`**
+- **`Free_Peptides/`**
 
   Contains the initial and final structures from free peptides simulations, along with the corresponding parameters and topologies files.
 
